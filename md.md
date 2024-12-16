@@ -29,4 +29,4 @@
 | Highlight         | I need to highlight these \==very important words==.                                                                |
 | Subscript         | H~2~O                                                                                                               |
 | Superscript       | X^2^                                                                                                                |
-| Math              | \$x+2=?$                                                                                                            |
+| Math              | \$x+2=?$ or $$x^2*2$$                                                                                               |
