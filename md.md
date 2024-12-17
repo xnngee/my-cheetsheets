@@ -1,4 +1,6 @@
-# Basics
+# Markdown - Cheatsheet
+
+## Basics
 
 | Element         | Markdown Syntax                                  |
 | --------------- | ------------------------------------------------ |
@@ -13,7 +15,7 @@
 | Link            | [title](https://www.example.com)                 |
 | Image           | ![alt text](https://bin.xengee.lol/0NwU.jpg)     |
 
-# Extended Syntax
+## Extended Syntax
 
 | Element           | Markdown Syntax                                                                                                     |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------- |
