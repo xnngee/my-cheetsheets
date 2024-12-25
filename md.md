@@ -1,4 +1,4 @@
-# Markdown --- Cheatsheet
+# Markdown --- Cheat Sheet
 
 ## Basics
 
