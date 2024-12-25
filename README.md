@@ -1,5 +1,8 @@
 # GIT --- Cheet Sheet
 
+[Markdown Cheet Sheet](md.md) \
+[VIM Cheet Sheet](vim.md)
+
 ## Основные команды
 
 ### Init (Инициализация)
